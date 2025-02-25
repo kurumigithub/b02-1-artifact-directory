@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/kurumigithub/b02-1-artifact-directory.git",
+    "project-repository": "https://github.com/hillarychang/dsc180b-capstone-q2.git",
+    "project-website-url": "https://hillarychang.github.io/test_site/",
+    "project-website-code": "https://github.com/hillarychang/test_site.git"
 }
